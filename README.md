@@ -13,7 +13,7 @@
 - 🧼 Writing cleaner, more efficient systems
   
 ♡ Tech Stack
-<img align="right" src="https://media.tenor.com/8Qf0N9u7Yy0AAAAC/new-game-ahagon-umiko.gif" width="300"/>
+<img align="right" src="https://media.tenor.com/8Qf0N9u7Yy0AAAAC/new-game-ahagon-umiko.gif" width="250"/>
 
 ## 🛠 Tech Stack 💖
 
