@@ -1,5 +1,5 @@
-# ruchirapat
-# Hey there! I'm Ruchira 👋
+
+<h1 align="center">ʚ♡ɞ Ruchira ɞ♡ɞ</h1>
 
 ♡ About Me
 - 🎓 Pre-final year CS undergrad  
