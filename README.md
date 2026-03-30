@@ -3,8 +3,7 @@
 
 ♡ About Me
 - 🎓 Pre-final year CS undergrad  
-- 💻 Full Stack Developer passionate about building scalable web applications  
-- ⚡ I enjoy solving problems and writing efficient code  
+- 💻 Full Stack Dev
 - 📩 Feel free to reach out at patilruchira611@gmail.com  
 
 ♡ What I’m Exploring Next
