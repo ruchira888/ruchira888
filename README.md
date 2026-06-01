@@ -2,14 +2,15 @@
 <h1 align="center">ʚ♡ɞ Ruchira ɞ♡ɞ</h1>
 
 ♡ About Me
-- 🎓 Pre-final year CS undergrad  
-- 💻 Full Stack Dev
-- 📩 Feel free to reach out at patilruchira611@gmail.com  
+Hey! I'm Ruchira :3
+I like clean code, minimal UIs and figuring out how things work under the hood.
 
-♡ What I’m Exploring Next
-- 🚀 Smarter ways to scale backend systems  
-- 🛠 Getting deeper into cloud infrastructure  
-- 🧼 Writing cleaner, more efficient systems
+Pre-final year CS student. Building web apps, getting deeper into backend;
+system design, DB internals.
+
+Most of my time goes into side projects and shipping things.
+Figuring out the rest as I go.
+
   
 ♡ Tech Stack
 <img align="right" src="https://i.imgflip.com/an2j0n.gif" width="250"/>
