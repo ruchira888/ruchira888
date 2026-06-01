@@ -14,4 +14,4 @@ Figuring out the rest as I go.
   
 ## 🛠 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,mongodb,mysql,docker,figma&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,mongodb,mysql,postgres,docker,figma&theme=dark&perline=11)](https://skillicons.dev)
